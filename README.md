@@ -21,5 +21,6 @@
 ### [Sqoop](sqoop)
 
 ### [Kylin](kylin)
+[kylin安装指南](kylin/install-kylin.md)
 
 ### [Zookeeper](zk)
