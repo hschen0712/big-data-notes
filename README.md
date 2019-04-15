@@ -22,6 +22,7 @@
 
 ### [Kylin](kylin)
 [kylin安装指南](kylin/install-kylin.md)  
-[Apache Kylin 在绿城客户画像系统中的实践](https://www.infoq.cn/article/apache-kylin-in-lvcheng-profile)
+[Apache Kylin 在绿城客户画像系统中的实践](https://www.infoq.cn/article/apache-kylin-in-lvcheng-profile)  
+[Apache Kylin Cube 构建原理](https://blog.bcmeng.com/post/kylin-cube.html)
 
 ### [Zookeeper](zk)
