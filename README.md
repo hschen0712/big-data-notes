@@ -13,6 +13,7 @@
 ### [Hive](hive)
 
 ### [Hbase](hbase)
+[HBase 基本概念](https://blog.bcmeng.com/post/hbase-note.html)
 
 ### [Spark](spark)
 
