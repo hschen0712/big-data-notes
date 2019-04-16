@@ -11,6 +11,7 @@
 ### [HDFS](hdfs)
 
 ### [Hive](hive)
+[Hive中的表生成函数](hive/udtf.md)
 
 ### [Hbase](hbase)
 [HBase 基本概念](https://blog.bcmeng.com/post/hbase-note.html)
