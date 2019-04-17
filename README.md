@@ -30,4 +30,5 @@
 ### [Zookeeper](zk)
 
 ### [数据仓库](data-warehouse)
-[【漫谈数据仓库】维度建模](https://mp.weixin.qq.com/s/vsdrabXhblH3b2oDTquYHA?)
+[【漫谈数据仓库】维度建模-by 木东居士](https://mp.weixin.qq.com/s/vsdrabXhblH3b2oDTquYHA?)
+[一种通用的数据仓库分层方法-by 木东居士](https://mp.weixin.qq.com/s/bcyL3-oncpRVEVUBiV6DMQ)
