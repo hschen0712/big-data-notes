@@ -33,3 +33,6 @@
 [【漫谈数据仓库】数据模型-by 木东居士](https://mp.weixin.qq.com/s/v1XJOpOlWBJRAkiksalIgA)  
 [【漫谈数据仓库】维度建模-by 木东居士](https://mp.weixin.qq.com/s/vsdrabXhblH3b2oDTquYHA?)  
 [一种通用的数据仓库分层方法-by 木东居士](https://mp.weixin.qq.com/s/bcyL3-oncpRVEVUBiV6DMQ)  
+
+### [架构]
+[浅谈大数据平台基建的逻辑](http://gigix.thoughtworkers.org/2018/3/16/infrastructure-of-big-data/)  
