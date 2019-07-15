@@ -16,7 +16,8 @@
 ### [Hbase](hbase)
 [HBase 基本概念](https://blog.bcmeng.com/post/hbase-note.html)
 
-### [Spark](spark)
+### [Spark](spark)  
+[Spark submit如何指定自己的配置文件](spark/spark-add-property-file.md)  
 [MLlib梯度提升树代码解读](spark/mllib/GradientBoostedTrees.md)  
 
 ### [Yarn](yarn)
