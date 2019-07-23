@@ -20,6 +20,9 @@
 [Spark submit如何指定自己的配置文件](spark/spark-add-property-file.md)  
 [MLlib梯度提升树代码解读](spark/mllib/GradientBoostedTrees.md)  
 
+### [Aws](aws)  
+[AWS EMR查看yarn日志](aws/emr-view-yarn-log.md)  
+
 ### [Yarn](yarn)
 
 ### [Sqoop](sqoop)
